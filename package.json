@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "A website scraper that captures entire website content using Puppeteer",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.8.2",
+    "fs-extra": "^11.2.0"
+  }
+} 
